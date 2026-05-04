@@ -1,0 +1,6 @@
+{
+  "name": "TrustLink",
+  "description": "A decentralized health record validation system using the Trust-PBFT consensus algorithm for secure, trust-weighted medical data management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
